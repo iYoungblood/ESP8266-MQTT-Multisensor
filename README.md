@@ -1,4 +1,4 @@
-# ESP8266_Home_IoT
+# ESP8266-MQTT-Multisensor
 ESP8266 Home Automation device with Temp, Humidity, Motion and Light using AWS IoT Core
 
 This is a version of BRUH_Automations Multisensor device that I optimized for my use case (AWS).
